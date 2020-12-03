@@ -1,0 +1,858 @@
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.exe
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.deps.json
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.runtimeconfig.json
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.runtimeconfig.dev.json
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.pdb
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.csprojAssemblyReference.cache
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\obj\Debug\netcoreapp3.1\staticwebassets\SsdWebApi.StaticWebAssets.Manifest.cache
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\obj\Debug\netcoreapp3.1\staticwebassets\SsdWebApi.StaticWebAssets.xml
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.AssemblyInfoInputs.cache
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.AssemblyInfo.cs
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.pdb
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\giovanni.poggi2\Desktop\Progetto Sistemi\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.csproj.CopyComplete
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.exe
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.deps.json
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.runtimeconfig.json
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.runtimeconfig.dev.json
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.pdb
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.csprojAssemblyReference.cache
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.AssemblyInfoInputs.cache
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.AssemblyInfo.cs
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.csproj.CoreCompileInputs.cache
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.RazorTargetAssemblyInfo.cache
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.csproj.CopyComplete
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\obj\Debug\netcoreapp3.1\staticwebassets\SsdWebApi.StaticWebAssets.Manifest.cache
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\obj\Debug\netcoreapp3.1\staticwebassets\SsdWebApi.StaticWebAssets.xml
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.pdb
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.genruntimeconfig.cache
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\Sistemi e Supporto Decisioni\Progetto Sistemi\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.exe
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.deps.json
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.runtimeconfig.json
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.runtimeconfig.dev.json
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.pdb
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.csprojAssemblyReference.cache
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.AssemblyInfoInputs.cache
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.AssemblyInfo.cs
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.csproj.CoreCompileInputs.cache
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.RazorTargetAssemblyInfo.cache
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.csproj.CopyComplete
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\obj\Debug\netcoreapp3.1\staticwebassets\SsdWebApi.StaticWebAssets.Manifest.cache
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\obj\Debug\netcoreapp3.1\staticwebassets\SsdWebApi.StaticWebAssets.xml
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.pdb
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\Progetto\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.genruntimeconfig.cache
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.exe
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.deps.json
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.runtimeconfig.json
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.runtimeconfig.dev.json
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.pdb
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.csprojAssemblyReference.cache
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.AssemblyInfoInputs.cache
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.AssemblyInfo.cs
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.csproj.CoreCompileInputs.cache
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.RazorTargetAssemblyInfo.cache
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.csproj.CopyComplete
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\staticwebassets\SsdWebApi.StaticWebAssets.Manifest.cache
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\staticwebassets\SsdWebApi.StaticWebAssets.xml
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.pdb
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.genruntimeconfig.cache
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.exe
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.deps.json
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.runtimeconfig.json
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.runtimeconfig.dev.json
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.pdb
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.csprojAssemblyReference.cache
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.AssemblyInfoInputs.cache
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.AssemblyInfo.cs
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.csproj.CoreCompileInputs.cache
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.csproj.CopyComplete
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\staticwebassets\SsdWebApi.StaticWebAssets.Manifest.cache
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\staticwebassets\SsdWebApi.StaticWebAssets.xml
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.dll
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.pdb
+C:\Users\oleg.konchenkov\Desktop\Corso Ssd\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.genruntimeconfig.cache
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.exe
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.deps.json
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.runtimeconfig.json
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.runtimeconfig.dev.json
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SsdWebApi.pdb
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.csprojAssemblyReference.cache
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.AssemblyInfoInputs.cache
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.AssemblyInfo.cs
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.csproj.CoreCompileInputs.cache
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.RazorTargetAssemblyInfo.cache
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.csproj.CopyComplete
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\staticwebassets\SsdWebApi.StaticWebAssets.Manifest.cache
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\staticwebassets\SsdWebApi.StaticWebAssets.xml
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.dll
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.pdb
+D:\UNIVERSITA'\Magistrale\Sistemi di supporto alle decisioni\ProgettoFinale\ProgettoFinale\SsdWebApi\obj\Debug\netcoreapp3.1\SsdWebApi.genruntimeconfig.cache
